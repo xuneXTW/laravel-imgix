@@ -1,5 +1,5 @@
 {
-    "name": "nasyrov/laravel-imgix",
+    "name": "xunextw/laravel-imgix",
     "type": "library",
     "description": "Laravel package for generating URLs with Imgix.",
     "keywords": [
